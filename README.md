@@ -14,19 +14,19 @@
 ## Скриншоты
 
 ### Списки: компании
-![Company list](images/Company%20list.png)
+![Company list](gitDocs/img/Company%20list.png)
 
 ### Списки: контакты
-![Contacts List](images/Contacts%20List.png)
+![Contacts List](gitDocs/img/Contacts%20List.png)
 
 ### Канбан: сделки
-![Kanban Deals](images/Kanban%20Deals.png)
+![Kanban Deals](gitDocs/img/Kanban%20Deals.png)
 
 ### Канбан: смарт-процессы
-![SP kanban](images/SP%20kanban.png)
+![SP kanban](gitDocs/img/SP%20kanban.png)
 
 ### Списки: смарт-процессы
-![SP list](images/SP%20list.png)
+![SP list](gitDocs/img/SP%20list.png)
 
 ---
 
